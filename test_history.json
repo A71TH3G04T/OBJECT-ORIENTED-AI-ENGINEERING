@@ -1,0 +1,14 @@
+[
+    {
+        "User": "My name is Ali. Remember it.",
+        "Ai": "Got it! Nice to meet you, Ali. I will remember your name. How can I help you today?"
+    },
+    {
+        "User": "What is my name?",
+        "Ai": "Your name is Ali!"
+    },
+    {
+        "User": "What is my name?",
+        "Ai": "Your name is still Ali!"
+    }
+]
